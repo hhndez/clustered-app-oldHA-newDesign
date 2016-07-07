@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.solacesystems:solclientj:7.1.2.136">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/solacesystems/solclientj/7.1.2.136/solclientj-7.1.2.136.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/solacesystems/solclientj/7.1.2.136/solclientj-7.1.2.136-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/solacesystems/solclientj/7.1.2.136/solclientj-7.1.2.136-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
